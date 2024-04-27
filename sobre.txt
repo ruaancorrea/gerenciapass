@@ -1,0 +1,5 @@
+Compreendo a importância de ressaltar que este projeto é destinado exclusivamente para fins educacionais e de estudo. É fundamental destacar que, devido a questões de segurança e práticas recomendadas para o armazenamento de senhas, este código não está pronto para uso em um ambiente de produção ou comercial. Há melhorias significativas a serem implementadas para garantir a segurança e proteção adequadas dos dados sensíveis.
+
+É crucial enfatizar que a prática de segurança da informação é de extrema importância, especialmente ao lidar com informações confidenciais, como senhas. Recomenda-se fortemente buscar orientação e adotar as melhores práticas de segurança ao desenvolver soluções para ambientes reais.
+
+Este esclarecimento visa garantir a conscientização sobre a natureza do projeto e ressaltar a importância da segurança da informação em todos os aspectos do desenvolvimento de software.
